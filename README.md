@@ -39,4 +39,4 @@ This repository provides a foundation for further exploration of ML-based positi
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/dethroning-gps-with-ml.git
+   git clone [https://github.com/](https://github.com/)<adityakaul29>/dethroning-gps-with-ml.git
